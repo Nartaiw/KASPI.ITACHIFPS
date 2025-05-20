@@ -1,0 +1,24 @@
+ 
+ style {
+
+ 
+ .kaspi-icon-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 50px;
+      font-family: sans-serif;
+    }
+
+    .kaspi-icon-container img {
+      width: 80px;
+      height: 80px;
+    }
+
+    .kaspi-icon-container span {
+      margin-top: 8px;
+      font-size: 18px;
+      font-weight: bold;
+      color: #e9203b; /* Kaspi түсі */
+    }
+}
